@@ -3,7 +3,7 @@
 
 ## Write a short comment describing this function
 
-# This function creates an object the stores a matrix.
+# This function creates an object that stores a matrix.
 makeCacheMatrix <- function(x = matrix()) {
   m <- null                # Here we set the value of the matrix as NULL as a placeholder to be used later on.
   set <- function(y) {     # We create a function to set the vector x to a new vector y
